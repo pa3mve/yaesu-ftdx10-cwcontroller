@@ -1,1 +1,1 @@
-# yaesu-ftdx10-cwcontroller
+# yaesu-ftdx10-cw-controller
